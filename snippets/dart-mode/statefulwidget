@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
 # name: StatefulWidget
 # key: sfw
+# group: flutter
 # --
 class ${1:Name} extends StatefulWidget {
   @override
